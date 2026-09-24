@@ -88,3 +88,25 @@ Install Python on your computer.
 
 ```bash
 pip install pandas matplotlib
+## Project Results
+
+### Top Trending Videos
+![Top Trending Videos](trending_video.jpg)
+
+### Most Liked Videos
+![Most Liked Videos](most_liked_videos.jpg)
+
+### Trending Channels
+![Trending Channels](top_trending_channel.jpg)
+
+### Trending Categories
+![Trending Categories](trending_categories.jpg)
+
+### Views vs Likes
+![Views vs Likes](views_and_likes.jpg)
+
+### Engagement Analysis
+![Engagement Analysis](engagements_videos.jpg)
+
+### India vs USA
+![India vs USA](india_VS_usa.jpg)
